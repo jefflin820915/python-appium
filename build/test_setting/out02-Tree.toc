@@ -1,0 +1,5 @@
+('C:\\Users\\TEST\\Desktop\\appium-python-android-master\\build\\test_setting\\appium_python_client-0.28-py3.7.egg',
+ None,
+ {'*.pyc', '*.py', '*.pyo', '*.so', '*.pyd', 'EGG-INFO'},
+ 'DATA',
+ [])

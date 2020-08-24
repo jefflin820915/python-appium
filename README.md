@@ -58,6 +58,10 @@ ModuleNotFoundError: No module named 'selenium'
 web download and
 python setup.py install
 ```
-
-
-
+### Install git
+```
+Update environment variable "Path"
+"git dir"\cmd
+"git dir"\bin
+"git dir"\mingw64\libexec\git-core
+```
